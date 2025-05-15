@@ -41,7 +41,7 @@ The goal of this project is to analyze the performance of sales executives acros
 - The pie chart representation of target hit distribution is evenly split (each at 20%), suggesting a fairly balanced performance among the core group of executives.
 - Invest in high-performers (e.g., Jagdish Chandra, Rachita Anupam) for mentoring roles or leadership pipelines.
 - Re-evaluate targets for underperforming executives — consider realistic goal-setting or enhanced support.
-- Standardize successful sales practices identified among top performers across all regions.
+
 
 
 
